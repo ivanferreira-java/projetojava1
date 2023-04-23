@@ -12,6 +12,8 @@ public class Pessoa {
 	
 	private Date dataCadastro;
 	
+	private String nome;
+	
 	
 	public String getNome() {
 		return nome;
